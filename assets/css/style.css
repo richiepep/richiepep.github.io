@@ -8,7 +8,9 @@ body {
     text-align: center;
 }
 
-strong { font-weight: 500; }
+
+
+strong { font-weight: 700; }
 
 a, a:hover, a:focus {
 	color: #19b9e7;
@@ -25,10 +27,11 @@ h1, h2 {
 }
 
 h3 {
-	font-size: 22px;
+	font-size: 18px;
     font-weight: 300;
     color: #555;
     line-height: 30px;
+    font-family: 'Raleway', sans-serif;
 }
 
 img { max-width: 100%; }
